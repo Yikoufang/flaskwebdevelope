@@ -1,0 +1,7 @@
+Dear {{ user.username }},
+Welcome to Flasky!
+To reset your email please click on the following link:
+{{ url_for('auth.modify_email_request', token=token, _external=True) }}
+Sincerely,
+The Flasky Team J
+Note: replies to this email address are not monitored
