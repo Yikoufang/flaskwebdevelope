@@ -26,7 +26,7 @@ httpie==0.9.9
 idna==2.7
 itsdangerous==0.24
 Jinja2==2.10
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 multidict==4.4.0
 mysql-connector==2.1.6
